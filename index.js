@@ -17,17 +17,17 @@ const shapeQuestion = [{
 },
 {
     type: 'input',
-    message: 'Please input the color you would like to use to fill your shape.',
+    message: 'Please input the color you would like to use to fill your shape:',
     name: 'shapeColor'
 },
 {
     type: 'input',
-    message: 'Insert the text you would like to put in the shape',
+    message: 'Insert the text you would like to put in the shape:',
     name: 'shapeText'
 },
 {
     type: 'input',
-    message: 'Please input the text color you would like to use for your fonts',
+    message: 'Please input the text color you would like to use for your fonts:',
     name: 'shapeTextColor'
 },
 {
@@ -40,7 +40,7 @@ const shapeQuestion = [{
 
 inquirer.prompt(initialQuestion).then((answer) => {
     //console.log(answer);
-    if (answer.initialChoice === 'Add Shape') {
+    if (answer.initialChoice === 'Create Shape') {
 
         addShape();
 
