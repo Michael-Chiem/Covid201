@@ -34,3 +34,5 @@ After you ran "node index.js", right click on the logo.svg and open with Live Se
 For any questions regarding the project, contact michaelchiem@hotmail.com.
 
 [Project Link](https://github.com/Michael-Chiem/Covid201)
+
+Link to the video: https://youtu.be/0tEXCk0H-oE
