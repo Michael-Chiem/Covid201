@@ -35,4 +35,6 @@ For any questions regarding the project, contact michaelchiem@hotmail.com.
 
 [Project Link](https://github.com/Michael-Chiem/Covid201)
 
-Link to the video: https://youtu.be/0tEXCk0H-oE
+Link to the video showing how to generate SVG shapes: https://youtu.be/0tEXCk0H-oE
+
+Link to the test run video: https://youtu.be/cMXKscWlyXg
